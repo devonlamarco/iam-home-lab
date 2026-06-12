@@ -18,6 +18,8 @@ Hands-on identity and access management projects.
 
 - Auth0
 - JWT.io
+- oidcdebugger.com
+- samlsp.com
 - Browser developer tools
 
 ## Projects
