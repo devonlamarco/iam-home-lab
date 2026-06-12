@@ -1,4 +1,4 @@
-# iam-home-lab
+# IAM-Home-Labs
 
 Hands-on identity and access management projects.
 
