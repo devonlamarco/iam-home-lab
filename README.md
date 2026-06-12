@@ -17,7 +17,6 @@ Hands-on identity and access management projects.
 ## Tools
 
 - Auth0
-- Postman
 - JWT.io
 - Browser developer tools
 
