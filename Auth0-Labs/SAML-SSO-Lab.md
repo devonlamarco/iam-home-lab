@@ -171,3 +171,16 @@ SAML enables federation by allowing a Service Provider to trust an Identity Prov
 The Identity Provider authenticates the user and sends a signed assertion containing user claims.
 
 The Service Provider validates the assertion and creates a session.
+
+---
+
+# Screenshots
+<img width="1920" height="1032" alt="Screenshot 2026-06-12 143424" src="https://github.com/user-attachments/assets/d451432d-4498-4e3a-8fb5-e39354de5dd6" />
+<img width="1920" height="1032" alt="Screenshot 2026-06-12 143450" src="https://github.com/user-attachments/assets/e93f4ad2-4061-48ac-acf3-32849c0f4fc6" />
+<img width="1920" height="1032" alt="Screenshot 2026-06-12 143556" src="https://github.com/user-attachments/assets/ef4bb122-b3d1-49c0-8390-5956773b6dac" />
+<img width="1920" height="1032" alt="Screenshot 2026-06-12 145710" src="https://github.com/user-attachments/assets/5953e682-4b8b-43cf-b627-04c869bf882f" />
+<img width="1920" height="1032" alt="Screenshot 2026-06-12 150307" src="https://github.com/user-attachments/assets/a731591e-2a56-4b92-a7f6-e1d7e2ca5247" />
+<img width="1920" height="1032" alt="Screenshot 2026-06-12 150516" src="https://github.com/user-attachments/assets/690440b1-070f-4df4-8274-f28635e1ff5c" />
+<img width="1920" height="1032" alt="Screenshot 2026-06-12 151830" src="https://github.com/user-attachments/assets/87634baf-7e9a-4f9b-bf21-9a0b368caf1f" />
+
+
